@@ -4,7 +4,7 @@ import React from 'react'
 const example = () => {
   return (
     <div>
-      Test example
+      Example-Gift
     </div>
   )
 }
