@@ -4,7 +4,8 @@ import React from 'react'
 const example = () => {
   return (
     <div>
-       kate make a new modifcation.
+      Example-Gift
+       kate make a new modification.
     </div>
   )
 }
